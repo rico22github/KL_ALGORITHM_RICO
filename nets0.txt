@@ -1,0 +1,604 @@
+NetDegree : 3
+a0
+a73
+a131
+NetDegree : 2
+a73
+a0
+NetDegree : 3
+a1
+a72
+a139
+NetDegree : 2
+a72
+a1
+NetDegree : 3
+a2
+a36
+a74
+NetDegree : 2
+a74
+a2
+NetDegree : 3
+a3
+a75
+a140
+NetDegree : 2
+a75
+a3
+NetDegree : 3
+a4
+a36
+a67
+NetDegree : 2
+a67
+a4
+NetDegree : 3
+a5
+a66
+a140
+NetDegree : 2
+a66
+a5
+NetDegree : 3
+a6
+a69
+a108
+NetDegree : 2
+a69
+a6
+NetDegree : 3
+a7
+a70
+a89
+NetDegree : 2
+a70
+a7
+NetDegree : 3
+a8
+a76
+a122
+NetDegree : 2
+a122
+a8
+NetDegree : 3
+a9
+a110
+a123
+NetDegree : 2
+a123
+a9
+NetDegree : 2
+a10
+a127
+NetDegree : 2
+a124
+a10
+NetDegree : 3
+a11
+a61
+a119
+NetDegree : 2
+a119
+a11
+NetDegree : 3
+a12
+a51
+a118
+NetDegree : 2
+a118
+a12
+NetDegree : 2
+a13
+a128
+NetDegree : 2
+a125
+a13
+NetDegree : 3
+a14
+a61
+a121
+NetDegree : 2
+a121
+a14
+NetDegree : 3
+a15
+a51
+a120
+NetDegree : 2
+a120
+a15
+NetDegree : 2
+a16
+a126
+NetDegree : 2
+a129
+a16
+NetDegree : 3
+a17
+a98
+a116
+NetDegree : 2
+a116
+a17
+NetDegree : 3
+a18
+a100
+a117
+NetDegree : 2
+a117
+a18
+NetDegree : 3
+a19
+a52
+a64
+NetDegree : 2
+a64
+a19
+NetDegree : 3
+a20
+a65
+a106
+NetDegree : 2
+a65
+a20
+NetDegree : 3
+a21
+a57
+a137
+NetDegree : 2
+a137
+a21
+NetDegree : 3
+a22
+a60
+a130
+NetDegree : 2
+a130
+a22
+NetDegree : 3
+a23
+a57
+a115
+NetDegree : 2
+a115
+a23
+NetDegree : 3
+a24
+a60
+a68
+NetDegree : 2
+a68
+a24
+NetDegree : 3
+a25
+a71
+a105
+NetDegree : 2
+a71
+a25
+NetDegree : 3
+a26
+a63
+a106
+NetDegree : 2
+a63
+a26
+NetDegree : 3
+a27
+a44
+a141
+NetDegree : 2
+a141
+a27
+NetDegree : 3
+a28
+a97
+a138
+NetDegree : 2
+a138
+a28
+NetDegree : 3
+a29
+a91
+a134
+NetDegree : 2
+a134
+a29
+NetDegree : 3
+a30
+a82
+a142
+NetDegree : 2
+a142
+a30
+NetDegree : 3
+a31
+a91
+a135
+NetDegree : 2
+a135
+a31
+NetDegree : 3
+a32
+a82
+a136
+NetDegree : 2
+a136
+a32
+NetDegree : 3
+a33
+a94
+a132
+NetDegree : 2
+a132
+a33
+NetDegree : 3
+a34
+a92
+a133
+NetDegree : 2
+a133
+a34
+NetDegree : 2
+p2
+a35
+NetDegree : 3
+a50
+a35
+a36
+NetDegree : 3
+a36
+a86
+a87
+NetDegree : 4
+p2
+a43
+a36
+a140
+NetDegree : 3
+a37
+a97
+a106
+NetDegree : 3
+a49
+a37
+a39
+NetDegree : 2
+p2
+a38
+NetDegree : 4
+a109
+a38
+a42
+a51
+NetDegree : 4
+p2
+a39
+a44
+a76
+NetDegree : 2
+a40
+a94
+NetDegree : 3
+a41
+a40
+a56
+NetDegree : 3
+p2
+a41
+a98
+NetDegree : 2
+a42
+a43
+NetDegree : 2
+a44
+a78
+NetDegree : 2
+a45
+a112
+NetDegree : 3
+a113
+a45
+a46
+NetDegree : 2
+p2
+a46
+NetDegree : 3
+a47
+a106
+a111
+NetDegree : 3
+a112 
+a47 
+a53 
+NetDegree : 3
+a48 
+a54 
+a57 
+NetDegree : 4
+p2 
+a48 
+a88 
+a113 
+NetDegree : 2
+a104 
+a49 
+NetDegree : 3
+p2 
+a50 
+a112 
+NetDegree : 2
+a51 
+a99 
+NetDegree : 4
+p2 
+a51 
+a60 
+a61 
+NetDegree : 2
+a52 
+a58 
+NetDegree : 2
+p2 
+a52 
+NetDegree : 3
+p2 
+a53 
+a105 
+NetDegree : 4
+a54 
+a60 
+a61 
+a91 
+NetDegree : 3
+a88 
+a55 
+a109 
+NetDegree : 2
+a56 
+a101 
+NetDegree : 2
+p2 
+a56 
+NetDegree : 2
+a57 
+a58 
+NetDegree : 2
+p1 
+a57 
+NetDegree : 2
+a58 
+a105 
+NetDegree : 4
+p2 
+a59 
+a74 
+a75 
+NetDegree : 2
+a96 
+a59 
+NetDegree : 2
+a60 
+a107 
+NetDegree : 2
+a61 
+a77 
+NetDegree : 2
+a62 
+a143 
+NetDegree : 4
+p2 
+a62 
+a95 
+a96 
+NetDegree : 4
+p2 
+a62 
+a95 
+a96 
+NetDegree : 5
+p2 
+a63 
+a65 
+a68 
+a130 
+NetDegree : 5
+p2 
+a64 
+a71 
+a115 
+a137 
+NetDegree : 5
+a149 
+a66 
+a70 
+a72 
+a75 
+NetDegree : 5
+a148 
+a67 
+a69 
+a73 
+a74 
+NetDegree : 2
+a76 
+a77 
+NetDegree : 2
+a77 
+a103 
+NetDegree : 2
+a98 
+a77 
+NetDegree : 2
+a78 
+a94 
+NetDegree : 2
+a91 
+a78 
+NetDegree : 3
+a79 
+a80 
+a81 
+NetDegree : 2
+a95 
+a79 
+NetDegree : 5
+p1 
+a81 
+a125 
+a130 
+a137 
+NetDegree : 2
+a82 
+a83 
+NetDegree : 2
+a83 
+a92 
+NetDegree : 2
+a97 
+a83 
+NetDegree : 2
+a84 
+a146 
+NetDegree : 6
+p2 
+a84 
+a85 
+a86 
+a87 
+a102 
+NetDegree : 3
+a90 
+a84 
+a85 
+NetDegree : 3
+a139 
+a84 
+a85 
+NetDegree : 3
+a140 
+a84 
+a85 
+NetDegree : 2
+a86 
+a147 
+NetDegree : 3
+a93 
+a86 
+a87 
+NetDegree : 3
+a131 
+a86 
+a87 
+NetDegree : 2
+a89 
+a90 
+NetDegree : 5
+a111 
+a89 
+a92 
+a100 
+a108 
+NetDegree : 2
+p2 
+a92 
+NetDegree : 2
+a108 
+a93 
+NetDegree : 2
+p2 
+a94 
+NetDegree : 2
+a99 
+a100 
+NetDegree : 2
+a110 
+a99 
+NetDegree : 2
+a100 
+a103 
+NetDegree : 2
+a101 
+a103 
+NetDegree : 2
+a102 
+a101 
+NetDegree : 2
+a114 
+a101 
+NetDegree : 2
+p2 
+a102 
+NetDegree : 3
+a127
+a102 
+a124 
+NetDegree : 3
+a126
+a102
+a129
+NetDegree : 2
+p2
+a103
+NetDegree : 2
+p2
+a104
+NetDegree : 2
+a105
+a107
+NetDegree : 2
+a106
+a107
+NetDegree : 2
+p2
+a107
+NetDegree : 2
+p2
+a110
+NetDegree : 2
+p2
+a112
+NetDegree : 2
+p2
+a114
+NetDegree : 3
+a128
+a114
+a125
+NetDegree : 4
+a116
+a119
+a121
+a122
+NetDegree : 4
+a117
+a118
+a120
+a123
+NetDegree : 5
+p2 
+a143 
+a118 
+a119 
+a142 
+NetDegree : 4
+p2 
+a124 
+a125
+a129
+NetDegree : 2
+p1
+a144
+NetDegree : 2
+p1
+a148
+NetDegree : 2
+p1
+a149
+NetDegree : 2
+p2 
+a150
+NetDegree : 2
+p2
+a150

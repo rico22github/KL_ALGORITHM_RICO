@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1585115076 source:c:\users\mrico\onedrive\desktop\c++ programming\kl_algorithm_rico\connection.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"CONNECTION.h"
+	"PARTITION.h"
+	"D_VALUE.h"
+	"CUT_COST.h"
+
+1584382692 c:\users\mrico\onedrive\desktop\c++ programming\kl_algorithm_rico\connection.h
+	<iostream>
+	<bits/stdc++.h>
+	"CONNECTION.h"
+	"PARTITION.h"
+	"D_VALUE.h"
+	"CUT_COST.h"
+
+1584382729 c:\users\mrico\onedrive\desktop\c++ programming\kl_algorithm_rico\partition.h
+	<iostream>
+	<bits/stdc++.h>
+	"CONNECTION.h"
+	"PARTITION.h"
+	"D_VALUE.h"
+	"CUT_COST.h"
+
+1584382729 c:\users\mrico\onedrive\desktop\c++ programming\kl_algorithm_rico\d_value.h
+	<iostream>
+	<bits/stdc++.h>
+	"CONNECTION.h"
+	"PARTITION.h"
+	"D_VALUE.h"
+	"CUT_COST.h"
+
+1584384341 c:\users\mrico\onedrive\desktop\c++ programming\kl_algorithm_rico\cut_cost.h
+	<iostream>
+	<bits/stdc++.h>
+	"CONNECTION.h"
+	"PARTITION.h"
+	"D_VALUE.h"
+	"CUT_COST.h"
+
+1584408568 source:c:\users\mrico\onedrive\desktop\c++ programming\kl_algorithm_rico\cut_cost.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"CONNECTION.h"
+	"PARTITION.h"
+	"D_VALUE.h"
+	"CUT_COST.h"
+
+1584408371 source:c:\users\mrico\onedrive\desktop\c++ programming\kl_algorithm_rico\d_value.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"CONNECTION.h"
+	"PARTITION.h"
+	"D_VALUE.h"
+	"CUT_COST.h"
+
+1585121329 source:c:\users\mrico\onedrive\desktop\c++ programming\kl_algorithm_rico\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"CONNECTION.h"
+	"PARTITION.h"
+	"D_VALUE.h"
+	"CUT_COST.h"
+
+1584406063 source:c:\users\mrico\onedrive\desktop\c++ programming\kl_algorithm_rico\partition.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"CONNECTION.h"
+	"PARTITION.h"
+	"D_VALUE.h"
+	"CUT_COST.h"
+
