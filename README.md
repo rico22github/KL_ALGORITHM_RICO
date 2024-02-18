@@ -6,7 +6,7 @@ The algorithm has important applications in the layout of digital circuits and c
 
 Comments on Implementation:
 
-This assignment was implemented in C++ language using Code::Blocks. Array and many other Data Structures were used to complete the assignment. 
+This project was implemented in C++ language using Code::Blocks. Array and many other Data Structures were used to complete the assignment. 
 C++ Standard Template Library (STL), such as vectors, iterators, maps, and pairs were also used. Details are given in the code’s comment section. 
 
 Reference:
