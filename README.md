@@ -12,5 +12,6 @@ C++ Standard Template Library (STL), such as vectors, iterators, maps, and pairs
 Reference:
 
 [1] B. W. Kernighan and S. Lin, “An Efficient Heuristic Procedure for Partitioning Graphs”, Bell System Technical Journal, September 30, 1969.
+
 [2] Dr. Khalid, “Lecturer 3: Partitioning PDF File from Physical Design Automation for VLSI & FPGAs Course”, Dept. of ECE, University of Windsor.
 
